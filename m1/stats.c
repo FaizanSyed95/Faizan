@@ -128,8 +128,6 @@ void sort_array(unsigned char array[] , unsigned int length ){
 	}
 }
 
-/* Add other Implementation File Code Here */
-
 
 
 
